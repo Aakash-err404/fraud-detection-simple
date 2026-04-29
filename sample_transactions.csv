@@ -1,0 +1,31 @@
+transaction_id,customer_id,amount,currency,transaction_date,transaction_time,category,payment_method,status,merchant_name,description
+TXN001,CUST001,45.99,USD,2026-04-20,14:32:15,Electronics,Credit Card,Completed,TechMart,Wireless Mouse
+TXN002,CUST002,120.50,USD,2026-04-20,15:45:22,Groceries,Debit Card,Completed,FreshMart,Weekly groceries
+TXN003,CUST003,25.00,USD,2026-04-20,16:20:08,Entertainment,Digital Wallet,Completed,StreamMax,Monthly subscription
+TXN004,CUST004,89.99,USD,2026-04-20,17:05:33,Clothing,Credit Card,Completed,FashionHub,Jeans and shirt
+TXN005,CUST001,15.50,USD,2026-04-21,09:15:42,Food,Cash,Completed,CoffeeShop,Coffee and pastry
+TXN006,CUST005,250.00,USD,2026-04-21,10:30:19,Travel,Credit Card,Pending,AirlineBookings,Flight ticket
+TXN007,CUST002,65.00,USD,2026-04-21,11:45:55,Health,Digital Wallet,Completed,PharmaCare,Prescription medicine
+TXN008,CUST003,180.00,USD,2026-04-21,13:22:11,Education,Bank Transfer,Completed,OnlineCourses,Web development course
+TXN009,CUST006,320.00,USD,2026-04-21,14:10:47,Utilities,Auto-Pay,Completed,PowerCorp,Electricity bill
+TXN010,CUST004,42.75,USD,2026-04-21,15:33:28,Dining,Credit Card,Completed,PizzaPlace,Dinner order
+TXN011,CUST001,0.00,USD,2026-04-22,09:00:00,Entertainment,Credit Card,Failed,StreamMax,Monthly subscription (Declined)
+TXN012,CUST007,155.00,USD,2026-04-22,10:15:22,Electronics,Credit Card,Completed,TechMart,USB-C cables pack
+TXN013,CUST002,78.99,USD,2026-04-22,11:30:44,Clothing,Digital Wallet,Completed,FashionHub,Shoes
+TXN014,CUST005,95.00,USD,2026-04-22,12:45:10,Groceries,Debit Card,Completed,FreshMart,Vegetables and fruits
+TXN015,CUST003,200.00,USD,2026-04-22,14:20:33,Entertainment,Credit Card,Completed,TheatreTickets,Concert tickets
+TXN016,CUST008,38.50,USD,2026-04-22,15:50:19,Food,Cash,Completed,RestaurantXYZ,Lunch
+TXN017,CUST006,120.00,USD,2026-04-22,16:25:40,Health,Bank Transfer,Completed,DoctorClinic,Consultation fee
+TXN018,CUST004,99.99,USD,2026-04-23,09:10:05,Electronics,Credit Card,Completed,TechMart,Portable speaker
+TXN019,CUST001,55.00,USD,2026-04-23,10:40:22,Dining,Digital Wallet,Completed,CafeElegant,Brunch
+TXN020,CUST007,300.00,USD,2026-04-23,12:15:48,Travel,Credit Card,Completed,HotelBooking,3 nights accommodation
+TXN021,CUST009,12.99,USD,2026-04-23,13:30:15,Entertainment,Digital Wallet,Completed,GameStore,Mobile game purchase
+TXN022,CUST002,67.50,USD,2026-04-23,14:55:33,Clothing,Credit Card,Completed,FashionHub,Jacket
+TXN023,CUST005,145.00,USD,2026-04-23,15:25:44,Utilities,Auto-Pay,Completed,WaterCorp,Water bill
+TXN024,CUST003,89.99,USD,2026-04-23,16:45:10,Electronics,Debit Card,Completed,TechMart,Phone charger
+TXN025,CUST010,500.00,USD,2026-04-24,09:20:22,Education,Bank Transfer,Completed,UniversityCourse,Semester fees
+TXN026,CUST001,33.00,USD,2026-04-24,10:50:15,Groceries,Digital Wallet,Completed,FreshMart,Groceries
+TXN027,CUST004,220.00,USD,2026-04-24,11:30:40,Entertainment,Credit Card,Completed,EventTickets,Concert + parking
+TXN028,CUST006,0.00,USD,2026-04-24,12:00:00,Travel,Credit Card,Refunded,AirlineBookings,Flight cancellation refund
+TXN029,CUST008,45.00,USD,2026-04-24,13:15:27,Dining,Cash,Completed,BurgerBar,Dinner for two
+TXN030,CUST007,76.80,USD,2026-04-24,14:40:19,Health,Digital Wallet,Completed,GymMembership,Monthly subscription
